@@ -32,7 +32,7 @@ class MessageExecomSection extends Component {
   <div className="container">
     <div className="row">
       <div className="col-lg-6 col-md-6 col-sm-8 col-xs-12 center-col margin-eight-bottom text-center last-paragraph-no-margin sm-margin-40px-bottom xs-margin-30px-bottom" style={{margin: '50px auto'}}>
-        <h5 className="alt-font font-weight-600 text-extra-dark-gray text-uppercase margin-15px-bottom">Appreciation from Principal</h5>
+        <h5 className="alt-font font-weight-600 text-extra-dark-gray text-uppercase margin-15px-bottom">Message From The Desk Of Principal</h5>
       </div>
     </div>
     <div className="row">
